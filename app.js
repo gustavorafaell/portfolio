@@ -1,3 +1,5 @@
+/* Função para scroll suave 
+*/
 const menuLinks = document.querySelectorAll('.header a[href^="#"]');
 
 function getDistanceFromTheTop(element) {
